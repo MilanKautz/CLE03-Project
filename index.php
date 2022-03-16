@@ -15,9 +15,8 @@
     <title>Document</title>
 </head>
 <body>
-    <div>
-        <span>Tijdelijke navigatie pagina</span>
-        <a href="wedstrijd.php">Wedstrijd page</a>
-    </div>
+    <p>Tijdelijke navigatie pagina</p>
+    <a href="wedstrijd.php">Wedstrijd page</a><br>
+    <a href="profielMaken.php">Profiel maken page</a><br>
 </body>
 </html>
