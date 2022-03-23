@@ -77,11 +77,6 @@ form {
     align-items: center;
 }
 
-form img {
-    height: 128px;
-    border-radius: 50%;
-}
-
 .data-field {
     display: flex;
     justify-content: space-evenly;
