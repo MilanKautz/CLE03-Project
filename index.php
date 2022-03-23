@@ -17,6 +17,6 @@
 <body>
     <p>Tijdelijke navigatie pagina</p>
     <a href="wedstrijd.php">Wedstrijd page</a><br>
-    <a href="positieKiezen.php">Profiel maken page</a><br>
+    <a href="positieKiezen.php">Positie kiezen page</a><br>
 </body>
 </html>

@@ -28,15 +28,20 @@
                 Team 1 vs Team 2
             </div>
             <div class="formation">
-
+                <div id="aanvallerLinks" class="aanvaller">1</div>
+                <div id="aanvallerRechts" class="aanvaller">2</div>
+                <div id="verdedigerLinks" class="verdediger">3</div>
+                <div id="verdedigerMidden" class="verdediger">4</div>
+                <div id="verdedigerRechts" class="verdediger">5</div>
+                <div id="keeper" class="keeper">6</div>
             </div>
             <div class="formationNames">
-                <div class="formationName">Speler 1</div>
-                <div class="formationName">Speler 2</div>
-                <div class="formationName">Speler 3</div>
-                <div class="formationName">Speler 4</div>
-                <div class="formationName">Speler 5</div>
-                <div class="formationName">Speler 6</div>
+                <div class="formationName">#1 Speler 1</div>
+                <div class="formationName">#2 Speler 2</div>
+                <div class="formationName">#3 Speler 3</div>
+                <div class="formationName">#4 Speler 4</div>
+                <div class="formationName">#5 Speler 5</div>
+                <div class="formationName">#6 Speler 6</div>
             </div>
         </main>
     </div>

@@ -14,7 +14,7 @@ body {
     flex-direction: column;
 }
 
-.header{
+.header {
     position: relative;
     height: 10%;
     background-color: #008F39;
@@ -51,10 +51,38 @@ main {
 }
 
 .formation {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(4, 1fr);
     height: 400px;
     width: 300px;
     background-color: #71BD5F;
     border-radius: 10px;
+}
+
+.formation * {
+    display: grid;
+    place-items: center;
+    background: #C4C4C4;
+    border-radius: 50%;
+    margin: 20px;
+}
+
+.aanvaller {
+    grid-row-start: 2;
+}
+
+#aanvallerRechts {
+    grid-column-start: 3;
+}
+
+.verdediger {
+    grid-row-start: 3;
+}
+
+.keeper {
+    grid-row-start: 4;
+    grid-column-start: 2;
 }
 
 .formationNames {
