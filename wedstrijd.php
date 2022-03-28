@@ -12,12 +12,21 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+    <script type="text/javascript" src="js/diego.js"></script>
     <title>Wedstrijd</title>
 </head>
 <body>
-    <div class="wrapper">
+    <div id="sideMenuWrapper" class="sideMenuWrapper">
+        <div id="sideMenu" class="sideMenu">
+            <a href="#">Wedstrijd maken</a>
+            <a href="#">Profiel bewerken</a>
+            <a href="#">Wedstrijd beheren</a>
+            <a href="#">Instellingen</a>
+        </div>
+    </div>
+    <div id="wrapper" class="wrapper">
         <div class="header">
-            <a href="index.php"><img src="img/backarrow.png" alt="back arrow"></a>
+            <img id="menuButton" src="img/backarrow.png" alt="back arrow">
             <div class="title">Wedstrijd</div>
         </div>
         <main>

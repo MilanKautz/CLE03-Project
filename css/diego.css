@@ -1,6 +1,7 @@
 html, body {
     margin: 0;
     height: 100%;
+    overflow: hidden;
 }
 
 body {
@@ -114,4 +115,42 @@ form {
 
 .data-field *, .data-submit * {
     padding: 5px;
+}
+
+.sideMenu {
+    height: 100%;
+    width: 0;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: #eeeeee;
+    overflow-x: hidden;
+    padding-top: 60px;
+    transition: 0.5s;
+}
+
+.sideMenu a{
+    display: block;
+    text-decoration: none;
+    color: #000000;
+    font-size: 20px;
+    padding: 8px;
+    background-color: #C4C4C4;
+    text-align: center;
+}
+
+.sideMenu a:hover{
+    background-color: #b4b4b4;
+}
+
+.sideMenuWrapper {
+    height: 100%;
+    width: 0;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    position: fixed;
+    background-color: rgba(0,0,0,0.5);
+    transition: 0.5s;
 }
