@@ -15,7 +15,7 @@ body {
     flex-direction: column;
 }
 
-.header {
+header {
     position: relative;
     height: 10%;
     background-color: #008F39;
@@ -30,7 +30,7 @@ body {
     transform: translate(-50%, -50%);
 }
 
-.header img {
+header img {
     height: 36px;
     position: absolute;
     top: 50%;

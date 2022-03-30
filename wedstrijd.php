@@ -17,18 +17,18 @@
 </head>
 <body>
     <div id="sideMenuWrapper" class="sideMenuWrapper">
-        <div id="sideMenu" class="sideMenu">
+        <nav id="sideMenu" class="sideMenu">
             <a href="#">Wedstrijd maken</a>
             <a href="#">Profiel bewerken</a>
             <a href="#">Wedstrijd beheren</a>
             <a class="settings" href="#">Instellingen</a>
-        </div>
+        </nav>
     </div>
     <div id="wrapper" class="wrapper">
-        <div class="header">
+        <header>
             <img id="menuButton" src="img/backarrow.png" alt="back arrow">
             <div class="title">Wedstrijd</div>
-        </div>
+        </header>
         <main>
             <div class="score">
                 1 - 0
