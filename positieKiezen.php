@@ -12,14 +12,15 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+    <link rel="manifest" href="manifest.json">
     <title>Kies je positie</title>
 </head>
 <body>
     <div class="wrapper">
-        <div class="header">
-            <a href="index.php"><img src="img/backarrow.png" alt="back arrow"></a>
+        <header>
+            <a href="index.php"><img id="backArrow" src="img/backarrow.png" alt="back arrow"></a>
             <div class="title">Kies je positie</div>
-        </div>
+        </header>
         <main>
             <form action="">
                 <div class="data-field">

@@ -1,7 +1,9 @@
 html, body {
     margin: 0;
     height: 100%;
+    width: 100%;
     overflow: hidden;
+    position: fixed;
 }
 
 body {
@@ -34,8 +36,15 @@ header img {
     height: 36px;
     position: absolute;
     top: 50%;
-    transform: translate(10%, -50%);
-    padding: 20px;
+    padding: 10px;
+}
+
+#backArrow {
+    transform: translate(0, -50%);
+}
+
+#menuButton {
+    transform: translate(100%, -50%);
 }
 
 main {

@@ -12,6 +12,7 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+    <link rel="manifest" href="manifest.json">
     <script type="text/javascript" src="js/diego.js"></script>
     <title>Wedstrijd</title>
 </head>
@@ -26,7 +27,8 @@
     </div>
     <div id="wrapper" class="wrapper">
         <header>
-            <img id="menuButton" src="img/backarrow.png" alt="back arrow">
+            <a href="index.php"><img id="backArrow" src="img/backarrow.png" alt="back arrow"></a>
+            <img id="menuButton" src="img/sideMenuButton.png" alt="side menu button">
             <div class="title">Wedstrijd</div>
         </header>
         <main>
