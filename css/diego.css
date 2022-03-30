@@ -164,9 +164,45 @@ form {
 }
 
 .button {
-    background-color: #67B0DA;
     border: none;
     color: #eeeeee;
     border-radius: 10px;
     padding: 10px;
+}
+
+.button-confirm {
+    background-color: #67B0DA;
+}
+
+.button-delete {
+    background-color: #DA6D67;
+}
+
+.wedstrijdBeheerMain {
+    justify-content: flex-start;
+}
+
+.beheerTeams{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.teamName {
+    background-color: #b4b4b4;
+    text-align: center;
+    padding: 10px;
+}
+
+.player {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #C4C4C4;
+    padding: 5px;
+}
+
+.buttons {
+    display: flex;
+    gap: 5px;
 }
