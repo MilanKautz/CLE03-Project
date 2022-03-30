@@ -39,7 +39,7 @@
                     </select>
                 </div>
                 <div class="data-submit">
-                    <input type="submit" name="submit" value="Opslaan">
+                    <input class="button" type="submit" name="submit" value="Opslaan">
                 </div>
             </form>
         </main>

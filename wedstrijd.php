@@ -21,7 +21,7 @@
             <a href="#">Wedstrijd maken</a>
             <a href="#">Profiel bewerken</a>
             <a href="#">Wedstrijd beheren</a>
-            <a href="#">Instellingen</a>
+            <a class="settings" href="#">Instellingen</a>
         </div>
     </div>
     <div id="wrapper" class="wrapper">

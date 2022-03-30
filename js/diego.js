@@ -17,6 +17,7 @@ function closeMenu(e) {
     if (menuOpen === false || e.target.id === sideMenu){
         return
     }
+    console.log(e.target.id);
     sideMenu.style.width = "0";
     sideMenuWrapper.style.width = "0";
     console.log('close');
