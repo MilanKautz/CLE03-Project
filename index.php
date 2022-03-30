@@ -20,5 +20,8 @@
     <p>Tijdelijke navigatie pagina</p>
     <a href="wedstrijd.php">Wedstrijd page</a><br>
     <a href="positieKiezen.php">Positie kiezen page</a><br>
+    <a href="Teams.php">Teams</a><br>
+    <a href="uwWedstrijden.php">Uw wedstrijden</a><br>
+    <a href="wedstrijdMaken.php">Wedstrijd maken</a><br>
 </body>
 </html>

@@ -19,7 +19,7 @@
 <body>
 <div class="wrapper">
     <div class="header">
-        <a class="active" href="#"><i class="fa fa-fw fa-home"></i> Home</a>
+        <a class="active" href="index.php"><i class="fa fa-fw fa-home"></i> Home</a>
         <div class="title">Profiel maken</div>
     </div>
     <main>
@@ -38,7 +38,7 @@
                 <select name="time" id="time">
                     <option value="10mins">10 Minuten</option>
                     <option value="15mins">15 Minuten</option>
-                    <option value="20mins">20 Minuten</option><select>
+                    <option value="20mins">20 Minuten</option></select>
 
             </div>
 

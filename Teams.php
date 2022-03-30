@@ -1,5 +1,3 @@
-
-
 <?php
 ?>
 
@@ -23,7 +21,7 @@
 <body>
 <div class="wrapper">
 <div class="header" >
-    <img src="img/backarrow.png" alt="back arrow">
+    <a href="index.php"><img src="img/backarrow.png" alt="back arrow"></a>
     <div class="team">Team </div>
 
 </div>
