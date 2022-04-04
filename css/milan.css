@@ -70,4 +70,34 @@ form {
 .data-field *, .data-submit * {
     padding: 5px;
 }
+table{
+    margin: 10px auto;
+}
+.box{
+    width: 100%;
+    margin: 2% 50%;
+    top: 20%;
+    left: 50%;
+    bottom: auto;
+    transform: translate(-50%, 0%);
+    background: #C4C4C4;
+    text-align: center;
+    border-radius: 15px;
+}
+.button {
+    padding: 9px 25px;
+    background-color: #00c8f8;
+    border: none;
+    cursor: pointer;
+    transistion: all 0.3s ease 0s;
+    margin: 4px 2px;
+}
+.button:hover {
+    color: darkblue;
+}
+td {
+    padding: 0 10px;
+}
+@media only screen and (max-width: 600px) {
 
+}
