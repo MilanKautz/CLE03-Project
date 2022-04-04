@@ -225,3 +225,13 @@ form {
 .settingsArrow {
     height: 36px;
 }
+
+.aboutUsPictures img {
+    height: 100px;
+    border-radius: 50%;
+}
+
+.aboutUsPictures {
+    display: inline-block;
+    vertical-align: top;
+}
