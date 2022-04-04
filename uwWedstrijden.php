@@ -20,3 +20,95 @@
         <a class="active" href="index.php"><i class="fa fa-fw fa-home"></i> Home</a>
         <div class="title">Wedstrijden beheren</div>
     </div>
+
+    <div class="box">
+
+        <table>
+            <thead>
+            <ul>
+                <th>Team</th>
+                <th>VS</th>
+                <th>Team</th>
+                <th>Datum</th>
+                <th>Tijd</th>
+                <th>Opties</th>
+
+
+            </ul>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Testers</td>
+                    <td>VS</td>
+                    <td>Finals</td>
+                    <td>10-06-2022</td>
+                    <td>13:00</td>
+                    <td><button class="button"<a href="#">Beheren</a></button></td>
+                </tr>
+
+
+            </tbody>
+        </table>
+
+    </div>
+    <div class="box">
+
+        <table>
+            <thead>
+            <ul>
+                <th>Team</th>
+                <th>VS</th>
+                <th>Team</th>
+                <th>Datum</th>
+                <th>Tijd</th>
+                <th>Opties</th>
+
+
+            </ul>
+            </thead>
+            <tbody>
+            <tr>
+                <td>Testers</td>
+                <td>VS</td>
+                <td>Finals</td>
+                <td>10-06-2022</td>
+                <td>13:00</td>
+                <td><button class="button"<a href="#">Beheren</a></button></td>
+            </tr>
+
+
+            </tbody>
+        </table>
+
+    </div>
+    <div class="box">
+
+        <table>
+            <thead>
+            <ul>
+                <th>Team</th>
+                <th>VS</th>
+                <th>Team</th>
+                <th>Datum</th>
+                <th>Tijd</th>
+                <th>Opties</th>
+
+
+            </ul>
+            </thead>
+            <tbody>
+            <tr>
+                <td>Testers</td>
+                <td>VS</td>
+                <td>Finals</td>
+                <td>10-06-2022</td>
+                <td>13:00</td>
+                <td><button class="button"<a href="#">Beheren</a></button></td>
+            </tr>
+
+
+            </tbody>
+        </table>
+
+    </div>
+    </div>
