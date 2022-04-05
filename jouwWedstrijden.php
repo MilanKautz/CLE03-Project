@@ -17,8 +17,7 @@
 <body>
 <div class="wrapper">
     <div class="header">
-        <a class="active" href="index.php"><i class="fa fa-fw fa-home"></i> Home</a>
-        <div class="title">Wedstrijden beheren</div>
+        <a href="index.php"><img id="backArrow" src="img/backarrow.png" alt="back arrow"></a>        <div class="title">Wedstrijden beheren</div>
     </div>
 
     <div class="box">

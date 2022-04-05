@@ -19,6 +19,7 @@ body {
     height: 15%;
     background-color: #008F39;
     color: #eeeeee;
+    padding: 4%;
 }
 
 .title {
@@ -30,11 +31,18 @@ body {
 }
 
 .header img {
-    height: 48px;
+    height: 36px;
     position: absolute;
     top: 50%;
-    transform: translate(10%, -50%);
-    padding: 20px;
+    padding: 10px;
+}
+
+#backArrow {
+    transform: translate(0, -50%);
+}
+
+#menuButton {
+    transform: translate(100%, -50%);
 }
 
 
@@ -123,6 +131,9 @@ tr:nth-child(even){background-color: #f2f2f2}
 .box{
     visibility: hidden;
 }
+    .header{
+        padding: 1%;
+    }
 }
 
 @media only screen and (min-width: 600px) {
