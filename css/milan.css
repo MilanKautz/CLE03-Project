@@ -95,9 +95,38 @@ table{
 .button:hover {
     color: darkblue;
 }
-td {
-    padding: 0 10px;
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+    width: 100%;
+    border: 1px solid #ddd;
 }
-@media only screen and (max-width: 600px) {
 
+th, td {
+    text-align: left;
+    padding: 8px;
+}
+.nameList{
+    width: 100%;
+    margin: 2% 50%;
+    top: 20%;
+    left: 50%;
+    bottom: auto;
+    transform: translate(-50%, 0%);
+    background: #C4C4C4;
+    text-align: center;
+    border-radius: 15px;
+}
+tr:nth-child(even){background-color: #f2f2f2}
+
+@media only screen and (max-width: 600px) {
+.box{
+    visibility: hidden;
+}
+}
+
+@media only screen and (min-width: 600px) {
+    .nameList{
+        visibility: hidden;
+    }
 }

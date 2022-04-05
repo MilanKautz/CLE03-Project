@@ -51,64 +51,35 @@
         </table>
 
     </div>
-    <div class="box">
 
-        <table>
-            <thead>
-            <ul>
-                <th>Team</th>
-                <th>VS</th>
-                <th>Team</th>
-                <th>Datum</th>
-                <th>Tijd</th>
-                <th>Opties</th>
+<br><br>
+            <table class="nameList">
+                <tr>
+                    <th>Team 1:</th>
+                    <td>Testers</td>
+                </tr>
+                <tr>
+                    <th>Team 2:</th>
+                    <td>Finals</td>
+                </tr>
+                <tr>
+                    <th>Datum:</th>
+                    <td>10-06-2022</td>
+                </tr>
+                <tr>
+                    <th>Tijd:</th>
+                    <td>13:00</td>
+                </tr>
+                <tr>
+                    <th>Opties:</th>
+                    <td><button class="button"<a href="#">Beheren</a></button></td>
+                </tr>
 
-
-            </ul>
-            </thead>
-            <tbody>
-            <tr>
-                <td>Testers</td>
-                <td>VS</td>
-                <td>Finals</td>
-                <td>10-06-2022</td>
-                <td>13:00</td>
-                <td><button class="button"<a href="#">Beheren</a></button></td>
-            </tr>
-
-
-            </tbody>
-        </table>
-
-    </div>
-    <div class="box">
-
-        <table>
-            <thead>
-            <ul>
-                <th>Team</th>
-                <th>VS</th>
-                <th>Team</th>
-                <th>Datum</th>
-                <th>Tijd</th>
-                <th>Opties</th>
-
-
-            </ul>
-            </thead>
-            <tbody>
-            <tr>
-                <td>Testers</td>
-                <td>VS</td>
-                <td>Finals</td>
-                <td>10-06-2022</td>
-                <td>13:00</td>
-                <td><button class="button"<a href="#">Beheren</a></button></td>
-            </tr>
-
+            </table>
 
             </tbody>
         </table>
+</div></div>
+</body>
 
-    </div>
-    </div>
+</html>
