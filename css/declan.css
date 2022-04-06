@@ -14,8 +14,9 @@ html, body {
 .wrapper{
     display: flex;
     flex-direction: column;
-    justify-content: space-evenly;
+    justify-content: center;
     height: 100%;
+    gap: 250px;
 }
 .pfp{
     height: 200px;
@@ -26,6 +27,7 @@ html, body {
     flex-direction: column;
     align-items: center;
     width: 100%;
+    gap: 40px;
 }
 h2 {
     color:black;
@@ -67,10 +69,12 @@ input[type=text]{
 
 .wachtwoord{
     text-align: center;
+    width: 100%;
 }
 
 .wachtwoord2{
     text-align: center;
+    width: 100%;
 }
 .button{
     border: none;
