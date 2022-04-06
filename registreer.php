@@ -11,7 +11,7 @@
 <body>
 <div class="wrapper1">
     <div class="title">Voetbal App</div>
-    <form method="POST" action=inlog.php class="wrapperinput1">
+    <form method="POST" action=index.php class="wrapperinput1">
         <img src="img/default-avatar.png" alt="pfp" class="pfp">
         <div class="wrapperbutton">
             <input type="submit" class="button" value="Kies een foto">

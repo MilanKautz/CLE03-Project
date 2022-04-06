@@ -61,3 +61,41 @@ table *{
     background-color: #E9E9E9;
     border-collapse: collapse;
 }
+
+.sideMenu {
+    height: 100%;
+    width: 0;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: #eeeeee;
+    overflow-x: hidden;
+    transition: 0.5s;
+}
+
+.sideMenu a{
+    display: block;
+    text-decoration: none;
+    color: #000000;
+    font-size: 20px;
+    padding: 30px 8px 30px 8px;
+    background-color: #C4C4C4;
+    text-align: center;
+    white-space: nowrap;
+}
+
+.sideMenu a:hover{
+    background-color: #b4b4b4;
+}
+
+.sideMenuWrapper {
+    height: 100%;
+    width: 0;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    position: fixed;
+    background-color: rgba(0,0,0,0.5);
+    transition: 0.5s;
+}

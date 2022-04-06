@@ -13,17 +13,17 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
     <link rel="manifest" href="manifest.json">
-    <title>Over ons</title>
+    <link rel="apple-touch-icon" sizes="192x192" href="img/voetball192.png">
+    <title>Document</title>
 </head>
 <body>
-    <div class="wrapper">
-        <header>
-            <a href="instellingen.php"><img id="backArrow" src="img/backarrow.png" alt="back arrow"></a>
-            <div class="title">Over ons</div>
-        </header>
-        <main class="wedstrijdBeheerMain">
-
-        </main>
-    </div>
+    <p>Tijdelijke navigatie pagina</p>
+    <a href="wedstrijd.php">Wedstrijd page</a><br>
+    <a href="positieKiezen.php">Positie kiezen page</a><br>
+    <a href="Teams.php">Teams</a><br>
+    <a href="Wedsrijdoverzicht.php">Wedstrijdoverzicht</a><br>
+    <a href="uwWedstrijden.php">Uw wedstrijden</a><br>
+    <a href="wedstrijdMaken.php">Wedstrijd maken</a><br>
+    <a href="wedstrijdBeheren.php">Wedstrijd beheer</a>
 </body>
 </html>

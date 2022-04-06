@@ -18,11 +18,11 @@
 <body>
     <div class="wrapper">
         <header>
-            <a href="index.php"><img id="backArrow" src="img/backarrow.png" alt="back arrow"></a>
+            <a href="Wedsrijdoverzicht.php"><img id="backArrow" src="img/backarrow.png" alt="back arrow"></a>
             <div class="title">Kies je positie</div>
         </header>
         <main>
-            <form action="">
+            <form method="POST" action="wedstrijd.php">
                 <div class="data-field">
                     <label for="position">Primaire positie</label>
                     <select name="position" id="position">

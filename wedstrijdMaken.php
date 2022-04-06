@@ -19,7 +19,7 @@
 <body>
 <div class="wrapper">
     <div class="header">
-        <a class="active" href="index.php"><i class="fa fa-fw fa-home"></i> Home</a>
+        <a class="active" href="Wedsrijdoverzicht.php"><i class="fa fa-fw fa-home"></i> Home</a>
         <div class="title">Profiel maken</div>
     </div>
     <main>

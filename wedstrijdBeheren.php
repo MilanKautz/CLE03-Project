@@ -18,7 +18,7 @@
 <body>
     <div class="wrapper">
         <header>
-            <a href="index.php"><img id="backArrow" src="img/backarrow.png" alt="back arrow"></a>
+            <a href="jouwWedstrijden.php"><img id="backArrow" src="img/backarrow.png" alt="back arrow"></a>
             <div class="title">Team beheer</div>
         </header>
         <main class="wedstrijdBeheerMain">

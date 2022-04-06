@@ -17,12 +17,21 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="css/Sayyid.css"/>
+    <script type="text/javascript" src="js/diego.js"></script>
 </head>
 
 <body>
+    <div id="sideMenuWrapper" class="sideMenuWrapper">
+        <nav id="sideMenu" class="sideMenu">
+            <a href="wedstrijdMaken.php">Wedstrijd maken</a>
+            <a href="#">Profiel bewerken</a>
+            <a href="jouwWedstrijden.php">Wedstrijd beheren</a>
+            <a class="settings" href="instellingen.php">Instellingen</a>
+        </nav>
+    </div>
 <div class="wrapper">
     <div class="header" >
-        <img src="img/backarrow.png" alt="back arrow">
+        <img id="menuButton" src="img/sideMenuButton.png" alt="side menu button">
         <div class="team">Wedstrijd overzicht </div>
 
     </div>

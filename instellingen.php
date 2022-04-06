@@ -18,7 +18,7 @@
 <body>
     <div class="wrapper">
         <header>
-            <a href="index.php"><img id="backArrow" src="img/backarrow.png" alt="back arrow"></a>
+            <a href="Wedsrijdoverzicht.php"><img id="backArrow" src="img/backarrow.png" alt="back arrow"></a>
             <div class="title">Instellingen</div>
         </header>
         <main class="wedstrijdBeheerMain">
@@ -35,10 +35,12 @@
                 </div>
             </div>
             <div class="settings">
-                <div class="setting">
-                    Over ons
-                    <img src="img/backarrowBlack.png" alt="" class="settingsArrow">
-                </div>
+                <a href="overOns.php">
+                    <div class="setting">
+                        Over ons
+                        <img src="img/backarrowBlack.png" alt="" class="settingsArrow">
+                    </div>
+                </a>
             </div>
         </main>
     </div>

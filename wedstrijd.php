@@ -27,7 +27,7 @@
     </div>
     <div id="wrapper" class="wrapper">
         <header>
-            <a href="index.php"><img id="backArrow" src="img/backarrow.png" alt="back arrow"></a>
+            <a href="Wedsrijdoverzicht.php"><img id="backArrow" src="img/backarrow.png" alt="back arrow"></a>
             <img id="menuButton" src="img/sideMenuButton.png" alt="side menu button">
             <div class="title">Wedstrijd</div>
         </header>

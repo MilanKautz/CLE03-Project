@@ -17,7 +17,7 @@
 <body>
 <div class="wrapper">
     <div class="header">
-        <a href="index.php"><img id="backArrow" src="img/backarrow.png" alt="back arrow"></a>        <div class="title">Wedstrijden beheren</div>
+        <a href="Wedsrijdoverzicht.php"><img id="backArrow" src="img/backarrow.png" alt="back arrow"></a>        <div class="title">Wedstrijden beheren</div>
     </div>
 
     <div class="box">
@@ -71,7 +71,7 @@
                 </tr>
                 <tr>
                     <th>Opties:</th>
-                    <td><button class="button"<a href="#">Beheren</a></button></td>
+                    <td><a href="wedstrijdBeheren.php"><button class="button">Beheren</button></a></td>
                 </tr>
 
             </table>

@@ -22,7 +22,7 @@
 <body>
 <div class="wrapper">
 <div class="header" >
-    <a href="index.php"><img src="img/backarrow.png" alt="back arrow"></a>
+    <a href="Wedsrijdoverzicht.php"><img src="img/backarrow.png" alt="back arrow"></a>
     <div class="team">Team </div>
 
 </div>
