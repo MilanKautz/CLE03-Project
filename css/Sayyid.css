@@ -6,6 +6,7 @@ html,body{
 
 body{
     background-color: #E9E9E9;
+    font-family: 'Roboto',sans-serif;
 }
 
 
@@ -32,6 +33,13 @@ height: 36px;
     top: 50%;
     transform: translate(10%, -50%);
 }
+.button{
+    border: none;
+    background-color: #67B0DA;
+    padding: 4px;
+    border-radius: 10px;
+}
+
 
 
 .wrapper{
