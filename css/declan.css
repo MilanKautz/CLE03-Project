@@ -1,0 +1,77 @@
+html, body {
+    margin: auto;
+    height: 100%;
+    font-family: 'Roboto', sans-serif;
+}
+
+.title{
+    text-align: center;
+    font-size: 150px;
+    position: center;
+    color: white;
+}
+.wrapper{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+h2 {
+    color:black;
+    text-align: center;
+    top: 50%;
+    font-size: 50px;
+}
+
+input[type=password]{
+    width: 50%;
+    padding: 12px 20px;
+    margin: 29px 0;
+    box-sizing: border-box;
+}
+
+input[type=text]{
+    width: 50%;
+    padding: 12px 20px;
+    margin: 29px 0;
+    box-sizing: border-box;
+}
+
+.gebruikersnaam{
+    text-align: center;
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+
+}
+.email{
+    text-align: center;
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+
+}
+
+.wachtwoord{
+    text-align: center;
+}
+
+.wachtwoord2{
+    text-align: center;
+}
+button,.button1{
+    text-align: center;
+}
+
+button,.button2{
+    text-align: center;
+
+}
+
+body {
+    background-image: url("img/field_blur.png");
+    background-color: #cccccc;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
