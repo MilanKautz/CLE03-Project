@@ -2,6 +2,7 @@ html, body {
     margin: auto;
     height: 100%;
     font-family: 'Roboto', sans-serif;
+    font-size: 50px;
 }
 
 .title{
@@ -60,13 +61,16 @@ input[type=text]{
 .wachtwoord2{
     text-align: center;
 }
-button,.button1{
-    text-align: center;
+.button{
+    border: none;
+    color: white;
+    border-radius: 10px;
+    padding: 10px;
+    font-size: 50px;
+    background-color: #67B0DA;
 }
-
-button,.button2{
+.wrapperbutton{
     text-align: center;
-
 }
 
 body {
