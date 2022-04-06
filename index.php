@@ -21,6 +21,7 @@
     <a href="wedstrijd.php">Wedstrijd page</a><br>
     <a href="positieKiezen.php">Positie kiezen page</a><br>
     <a href="Teams.php">Teams</a><br>
+    <a href="Wedsrijdoverzicht.php">Wedstrijdoverzicht</a><br>
     <a href="uwWedstrijden.php">Uw wedstrijden</a><br>
     <a href="wedstrijdMaken.php">Wedstrijd maken</a><br>
     <a href="wedstrijdBeheren.php">Wedstrijd beheer</a>
