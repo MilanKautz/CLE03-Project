@@ -11,7 +11,7 @@
 <body>
 <div class="wrapper2">
     <div class="title">Voetbal App</div>
-    <form method="POST" action="wedstrijdBeheren.php" class="wrapperinput2">
+    <form method="POST" action="Wedsrijdoverzicht.php" class="wrapperinput2">
 
 
         <div class="email">
