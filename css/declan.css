@@ -14,7 +14,18 @@ html, body {
 .wrapper{
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    justify-content: space-evenly;
+    height: 100%;
+}
+.pfp{
+    height: 200px;
+    border-radius: 50%;
+}
+.wrapperinput{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
 }
 h2 {
     color:black;
@@ -68,13 +79,14 @@ input[type=text]{
     padding: 10px;
     font-size: 50px;
     background-color: #67B0DA;
+    margin: 10px;
 }
 .wrapperbutton{
     text-align: center;
 }
 
 body {
-    background-image: url("img/field_blur.png");
+    background-image: url("../img/field_blur.png");
     background-color: #cccccc;
     background-repeat: no-repeat;
     background-size: cover;
