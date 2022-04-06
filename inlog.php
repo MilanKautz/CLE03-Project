@@ -11,32 +11,33 @@
 <body>
 <div class="wrapper2">
     <div class="title">Voetbal App</div>
-    <div class="wrapperinput2">
+    <form method="POST" action="wedstrijdBeheren.php" class="wrapperinput2">
 
 
-    <div class="email">
-        <h2>
-            E-mail
-        </h2>
-        <input type="text">
+        <div class="email">
+            <h2>
+                E-mail
+            </h2>
+            <input type="text">
 
 
-    </div>
+        </div>
 
-    <div class="wachtwoord">
-        <h2>
-            Wachtwoord
-        </h2>
-        <input type="password">
-    </div>
+        <div class="wachtwoord">
+            <h2>
+                Wachtwoord
+            </h2>
+            <input type="password">
+        </div>
 
         <div class="wrapperbutton">
             <input type="submit" class="button" value="Log in">
         </div>
         <div class="wrapperbutton">
-    <input type="submit" class="button" value="Registreer">
-    </div>
+            <a href="registreer.php"  class="button">Registreer</a>
+
         </div>
+    </form>
 </div>
 </body>
 </html>
