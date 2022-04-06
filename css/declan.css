@@ -28,7 +28,13 @@ html, body {
     height: 200px;
     border-radius: 50%;
 }
-.wrapperinput{
+.wrapperinput1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+}
+.wrapperinput2{
     display: flex;
     flex-direction: column;
     align-items: center;

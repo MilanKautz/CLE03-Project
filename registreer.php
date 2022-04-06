@@ -9,10 +9,13 @@
     <title>Inlogscherm</title>
 </head>
 <body>
-<div class="wrapper2">
+<div class="wrapper1">
     <div class="title">Voetbal App</div>
-    <div class="wrapperinput">
-
+    <div class="wrapperinput1">
+        <img src="img/default-avatar.png" alt="pfp" class="pfp">
+        <div class="wrapperbutton">
+            <input type="submit" class="button" value="Kies een foto">
+        </div>
 
     <div class="email">
         <h2>
@@ -22,19 +25,26 @@
 
 
     </div>
-
+    <div class="gebruikersnaam">
+        <h2>
+            Gebruikersnaam
+        </h2>
+        <input type="text">
+    </div>
     <div class="wachtwoord">
         <h2>
             Wachtwoord
         </h2>
         <input type="password">
     </div>
-
-        <div class="wrapperbutton">
-            <input type="submit" class="button" value="Log in">
-        </div>
-        <div class="wrapperbutton">
-    <input type="submit" class="button" value="Registreer">
+    <div class="wachtwoord2">
+        <h2>
+            Wachtwoord herhalen
+        </h2>
+        <input type="password">
+    </div>
+    <div class="wrapperbutton">
+    <input type="submit" class="button" value="Maak account aan">
     </div>
         </div>
 </div>
