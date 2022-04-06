@@ -45,31 +45,31 @@
 
            <tr><td>Team1 vs Team 5</td>
                 <td>   10 april 19:00
-                    <input type="submit" class="button" value="Kijken" >
-                    <input type="submit" class="button" value="Spelen" >
+                    <a href="wedstrijd.php" class="button">Kijken</a>
+                    <a href="Teams.php" class="button">Spelen</a>
                </td>
 
            </tr>
 
             <tr><td>Team 15 vs Team 23</td>
                 <td>25 april 17:00
-                    <input type="submit" class="button" value="Kijken" >
-                    <input type="submit" class="button" value="Spelen" ></td>
+                    <a href="wedstrijd.php" class="button">Kijken</a>
+                    <a href="Teams.php" class="button">Spelen</a></td>
             </tr>
             <tr><td>Team 7 vs Team 3</td>
                 <td>27 april 13:00
-                    <input type="submit" class="button" value="Kijken" >
-                    <input type="submit" class="button" value="Spelen" ></td>
+                    <a href="wedstrijd.php" class="button">Kijken</a>
+                    <a href="Teams.php" class="button">Spelen</a></td>
             </tr>
             <tr><td>Team Zuid vs Team Noord</td>
                 <td> 10 mei 11:00
-                    <input type="submit" class="button" value="Kijken" >
-                    <input type="submit" class="button" value="Spelen" ></td>
+                    <a href="wedstrijd.php" class="button">Kijken</a>
+                    <a href="Teams.php" class="button">Spelen</a></td>
             </tr>
             <tr><td>Team Oost vs Team West</td>
                 <td>18 mei 18:00
-                    <input type="submit" class="button" value="Kijken" >
-                    <input type="submit" class="button" value="Spelen" ></td>
+                    <a href="wedstrijd.php" class="button">Kijken</a>
+                    <a href="Teams.php" class="button">Spelen</a></td>
             </tr>
 
 
