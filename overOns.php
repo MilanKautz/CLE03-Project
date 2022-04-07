@@ -21,8 +21,75 @@
             <a href="instellingen.php"><img id="backArrow" src="img/backarrow.png" alt="back arrow"></a>
             <div class="title">Over ons</div>
         </header>
-        <main class="wedstrijdBeheerMain">
-
+        <main class="flexStartMain aboutUsMain">
+            <div class="aboutUsItem">
+                <div class="aboutUsPictures">
+                    <img src="img/default-avatar.png" alt="img"/>
+                    Milan Kautz
+                </div>
+                <div class="aboutUsDescription">
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam autem beatae consequatur
+                        cum
+                        distinctio dolore eos expedita harum id ipsa ipsam numquam placeat provident voluptates,
+                        voluptatibus? Doloribus maiores reiciendis suscipit?</p>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet autem, consequatur, cumque
+                        dignissimos
+                        ea facilis modi molestiae molestias natus perferendis quaerat quidem quod rem saepe, sequi
+                        similique
+                        tempore totam vel.</p>
+                </div>
+            </div>
+            <div class="aboutUsItem">
+                <div class="aboutUsPictures">
+                    <img src="img/default-avatar.png" alt="img"/>
+                    Sayyid Brown
+                </div>
+                <div class="aboutUsDescription">
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam autem beatae consequatur
+                        cum
+                        distinctio dolore eos expedita harum id ipsa ipsam numquam placeat provident voluptates,
+                        voluptatibus? Doloribus maiores reiciendis suscipit?</p>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet autem, consequatur, cumque
+                        dignissimos
+                        ea facilis modi molestiae molestias natus perferendis quaerat quidem quod rem saepe, sequi
+                        similique
+                        tempore totam vel.</p>
+                </div>
+            </div>
+            <div class="aboutUsItem">
+                <div class="aboutUsPictures">
+                    <img src="img/default-avatar.png" alt="img"/>
+                    Declan van der Veer
+                </div>
+                <div class="aboutUsDescription">
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam autem beatae consequatur
+                        cum
+                        distinctio dolore eos expedita harum id ipsa ipsam numquam placeat provident voluptates,
+                        voluptatibus? Doloribus maiores reiciendis suscipit?</p>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet autem, consequatur, cumque
+                        dignissimos
+                        ea facilis modi molestiae molestias natus perferendis quaerat quidem quod rem saepe, sequi
+                        similique
+                        tempore totam vel.</p>
+                </div>
+            </div>
+            <div class="aboutUsItem">
+                <div class="aboutUsPictures">
+                    <img src="img/default-avatar.png" alt="img"/>
+                    Diego Lens
+                </div>
+                <div class="aboutUsDescription">
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam autem beatae consequatur
+                        cum
+                        distinctio dolore eos expedita harum id ipsa ipsam numquam placeat provident voluptates,
+                        voluptatibus? Doloribus maiores reiciendis suscipit?</p>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet autem, consequatur, cumque
+                        dignissimos
+                        ea facilis modi molestiae molestias natus perferendis quaerat quidem quod rem saepe, sequi
+                        similique
+                        tempore totam vel.</p>
+                </div>
+            </div>
         </main>
     </div>
 </body>

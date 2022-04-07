@@ -21,7 +21,7 @@
             <a href="Wedsrijdoverzicht.php"><img id="backArrow" src="img/backarrow.png" alt="back arrow"></a>
             <div class="title">Instellingen</div>
         </header>
-        <main class="wedstrijdBeheerMain">
+        <main class="flexStartMain">
             <div class="settings">
                 <div class="setting">
                     Dark mode
