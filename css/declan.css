@@ -1,0 +1,109 @@
+html, body {
+    margin: auto;
+    height: 100%;
+    font-family: 'Roboto', sans-serif;
+    font-size: 50px;
+}
+
+.title{
+    text-align: center;
+    font-size: 150px;
+    position: center;
+    color: white;
+}
+.wrapper2{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100%;
+    gap: 250px;
+}
+.wrapper1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100%;
+}
+.pfp{
+    height: 200px;
+    border-radius: 50%;
+}
+.wrapperinput1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+}
+.wrapperinput2{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    gap: 40px;
+}
+h2 {
+    color:black;
+    text-align: center;
+    top: 50%;
+    font-size: 50px;
+}
+
+input[type=password]{
+    width: 50%;
+    padding: 12px 20px;
+    margin: 29px 0;
+    box-sizing: border-box;
+}
+
+input[type=text]{
+    width: 50%;
+    padding: 12px 20px;
+    margin: 29px 0;
+    box-sizing: border-box;
+}
+
+.gebruikersnaam{
+    text-align: center;
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+
+}
+.email{
+    text-align: center;
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+
+}
+
+.wachtwoord{
+    text-align: center;
+    width: 100%;
+}
+
+.wachtwoord2{
+    text-align: center;
+    width: 100%;
+}
+.button{
+    border: none;
+    color: white;
+    border-radius: 10px;
+    padding: 10px;
+    font-size: 50px;
+    background-color: #67B0DA;
+    margin: 10px;
+}
+.wrapperbutton{
+    text-align: center;
+}
+
+body {
+    background-image: url("../img/field_blur.png");
+    background-color: #cccccc;
+    background-repeat: no-repeat;
+    background-size: cover;
+}

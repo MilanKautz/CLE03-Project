@@ -15,13 +15,14 @@
     />
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="css/Sayyid.css"/>
 </head>
 
 <body>
 <div class="wrapper">
 <div class="header" >
-    <a href="index.php"><img src="img/backarrow.png" alt="back arrow"></a>
+    <a href="Wedsrijdoverzicht.php"><img src="img/backarrow.png" alt="back arrow"></a>
     <div class="team">Team </div>
 
 </div>
