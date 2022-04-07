@@ -17,7 +17,8 @@
 <body>
 <div class="wrapper">
     <div class="header">
-        <a href="index.php"><img id="backArrow" src="img/backarrow.png" alt="back arrow"></a>        <div class="title">Wedstrijden beheren</div>
+        <a href="index.php"><img id="backArrow" src="img/backarrow.png" alt="back arrow"></a>
+        <div class="title">Wedstrijden beheren</div>
     </div>
 
     <div class="box">
@@ -37,9 +38,9 @@
             </thead>
             <tbody>
                 <tr>
-                    <td>Testers</td>
+                    <td>Amateurs</td>
                     <td>VS</td>
-                    <td>Finals</td>
+                    <td>Pro's</td>
                     <td>10-06-2022</td>
                     <td>13:00</td>
                     <td><button class="button"<a href="#">Beheren</a></button></td>
@@ -55,11 +56,11 @@
             <table class="nameList">
                 <tr>
                     <th>Team 1:</th>
-                    <td>Testers</td>
+                    <td>Amateurs</td>
                 </tr>
                 <tr>
                     <th>Team 2:</th>
-                    <td>Finals</td>
+                    <td>Pro's</td>
                 </tr>
                 <tr>
                     <th>Datum:</th>
@@ -78,7 +79,11 @@
 
             </tbody>
         </table>
-</div></div>
+    </div>
+</div>
 </body>
+<footer>
+    <p class="text-center">Pagina gemaakt door Milan Kautz</p>
+</footer>
 
 </html>

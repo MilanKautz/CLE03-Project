@@ -19,7 +19,7 @@
 <body>
 <div class="wrapper">
     <div class="header">
-        <a class="active" href="index.php"><i class="fa fa-fw fa-home"></i> Home</a>
+        <a href="index.php"><img id="backArrow" src="img/backarrow.png" alt="back arrow"></a>
         <div class="title">Profiel maken</div>
     </div>
     <main>
@@ -32,7 +32,7 @@
                 <label class="team" for="Team 2">Naam team 2:</label>
                 <input id="teamTwo" type="text" name="teamTwo" placeholder="team 1"/>
             </div>
-
+<br>
             <div class="data-field">
                 <label for="name">Tijd</label>
                 <select name="time" id="time">
@@ -41,7 +41,7 @@
                     <option value="20mins">20 Minuten</option></select>
 
             </div>
-
+<br>
             <div class="data-field">
                 <label for="players">Aantal spelers</label>
                 <select name="players" id="players">
@@ -49,7 +49,7 @@
                     <option value="10">10 spelers</option>
                     <option value="14">14 spelers</option></select>
             </div>
-
+<br>
             <div class="data-field">
                 <label for="date">Datum</label>
                 <input name="date" id="date" type="date" placeholder="Datum">
@@ -68,4 +68,8 @@
     </main>
 </div>
 </body>
+<footer>
+    <p class="text-center">Pagina gemaakt door Milan Kautz</p>
+</footer>
+
 </html>
