@@ -14,7 +14,7 @@ body {
     flex-direction: column;
 }
 
-.header{
+header{
     position: relative;
     height: 2%;
     background-color: #008F39;
@@ -30,7 +30,7 @@ body {
     transform: translate(-50%, -50%);
 }
 
-.header img {
+header img {
     height: 36px;
     position: absolute;
     top: 50%;
@@ -46,7 +46,6 @@ body {
 }
 
 
-
 main {
     display: flex;
     flex-direction: column;
@@ -54,6 +53,7 @@ main {
     justify-content: space-evenly;
     height: 85%;
 }
+
 
 .score {
     font-size: 48px;
@@ -82,13 +82,14 @@ table{
     margin: 10px auto;
 }
 .box{
-    display: flex;
+
     width: 100%;
-    margin: 2% 50%;
+    padding: 10px 10px;
+    margin: 1% 10%;
     top: 20%;
     left: 50%;
     bottom: auto;
-    transform: translate(-50%, 0%);
+    transform: translate(-0%, 0%);
     background: #C4C4C4;
     text-align: center;
     border-radius: 15px;
@@ -121,7 +122,7 @@ th, td {
     margin: 2% 50%;
     top: 20%;
     bottom: auto;
-    transform: translate(-50%, 0%);
+    transform: translate(-0%, 0%);
     background: #C4C4C4;
     text-align: center;
     border-radius: 15px;

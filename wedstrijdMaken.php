@@ -17,11 +17,10 @@
     <title>Document</title>
 </head>
 <body>
-<div class="wrapper">
-    <div class="header">
+<header>
         <a href="index.php"><img id="backArrow" src="img/backarrow.png" alt="back arrow"></a>
-        <div class="title">Profiel maken</div>
-    </div>
+        <div class="title">Wedstrijden beheren</div>
+</header>
     <main>
 
         <form action="">

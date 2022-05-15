@@ -15,11 +15,11 @@
     <title>Document</title>
 </head>
 <body>
-<div class="wrapper">
-    <div class="header">
+<header>
         <a href="index.php"><img id="backArrow" src="img/backarrow.png" alt="back arrow"></a>
         <div class="title">Wedstrijden beheren</div>
-    </div>
+    </header>
+<main>
 
     <div class="box">
 
@@ -51,8 +51,8 @@
         </table>
 
     </div>
-
 <br><br>
+
             <table class="nameList">
                 <tr>
                     <th>Team 1:</th>
@@ -80,7 +80,8 @@
             </tbody>
         </table>
     </div>
-</div>
+        </div>
+</main>
 </body>
 <footer>
     <p class="text-center">Pagina gemaakt door Milan Kautz</p>
